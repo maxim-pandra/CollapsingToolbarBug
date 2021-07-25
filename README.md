@@ -1,4 +1,5 @@
 # CollapsingToolbarBug
+In the screen_recordings folder you can find original mp4 screen recordings.
 
 Example 1: First swipe on the CollapsingToolbar to the top of the screen, and immediately after swipe down on the recycler.
 Result: animation is broken
